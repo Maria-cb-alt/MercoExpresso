@@ -1,3 +1,16 @@
-body{
-    background-color: red;
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.footer {
+    background-color: aquamarine;
+}
+
+body {
+    font-family: 'Poppins';
 }
